@@ -1,0 +1,1 @@
+High performance, open source, cross platform RandomX, KawPow, CryptoNight and GhostRider unified CPU/GPU miner
